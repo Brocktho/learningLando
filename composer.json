@@ -1,0 +1,10 @@
+{
+    "name": "brockdonahue/landotest",
+    "type": "project",
+    "autoload": {
+        "psr-4":{
+            "app\\": "./"
+        }
+    },
+    "require": {}
+}

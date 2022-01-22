@@ -1,4 +1,5 @@
 name: test-app
 recipe: lamp
 config:
-  webroot: .
+  php: '7.4'
+  xdebug: true
